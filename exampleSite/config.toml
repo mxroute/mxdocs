@@ -4,7 +4,7 @@ baseURL = "https://demo.gethugothemes.com/dot/examplesite/"
 # theme
 theme = "dot-hugo"
 # site title
-title = "Dot"
+title = "MXroute Documentation"
 # disable language
 disableLanguages = []
 # google analytics
