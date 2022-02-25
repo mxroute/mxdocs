@@ -13,8 +13,4 @@ We use solely open source and licensed webmail applications, we do not currently
 - Snappy (Fork of Rainloop)
 - Afterlogic Pro
 
-One option, Crossbox, has a wealth of features which includes a selection of several webmail options that may differ from the ones we directly offer. Check out features of Crossbox 
-
-[here]: https://crossbox.io/tour
-
-.
+One option, Crossbox, has a wealth of features which includes a selection of several webmail options that may differ from the ones we directly offer. Check out features of Crossbox [here](https://crossbox.io/tour).
