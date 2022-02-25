@@ -6,7 +6,7 @@ theme = "dot-hugo"
 # site title
 title = "MXroute Support"
 # disable language
-disableLanguages = []
+disableLanguages = ["Fr"]
 # google analytics
 googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
 # unsafe html
