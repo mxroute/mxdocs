@@ -1,5 +1,6 @@
 https://mxroute.com/docs/#/Presales/ipreputation > https://mxroutedocs.com/features/ipreputation/
 https://mxroute.com/docs/#/General/Do_You_Sell_Calendars > https://mxroutedocs.com/features/calcontacts/
 https://mxroute.com/docs/#/General/About_MXroute > https://mxroutedocs.com/general/about/
-https://mxroute.com/docs/#/General/EU_Tax_Regulations > 
-https://mxroute.com/docs/#/General/GDPR > 
+https://mxroute.com/docs/#/General/EU_Tax_Regulations > https://mxroutedocs.com/general/eutax/
+https://mxroute.com/docs/#/General/GDPR > https://mxroutedocs.com/general/gdpr/
+https://mxroute.com/docs/#/General/Not_Technical > 
