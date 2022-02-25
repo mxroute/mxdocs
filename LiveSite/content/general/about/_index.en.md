@@ -10,7 +10,7 @@ MXroute is a “bring your own domain” e-mail service. You provide the domain,
 
 ### Provided Services
 
-SMTP, POP3, IMAP, Webmail (Roundcube, Rainloop, Crossbox), Control Panel (DirectAdmin-based)
+SMTP, POP3, IMAP, Webmail, Control Panel (DirectAdmin-based)
 
 ### Privacy
 
