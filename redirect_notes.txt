@@ -7,3 +7,4 @@ https://mxroute.com/docs/#/General/Not_Technical > https://mxroutedocs.com/gener
 https://mxroute.com/docs/#/General/IP_Reputaton?id=why-are-you-so-obsessed-with-ip-reputation > https://mxroutedocs.com/general/ipreputation/
 https://mxroute.com/docs/#/General/Migrating > https://mxroutedocs.com/general/migrate/
 https://mxroute.com/docs/#/General/SMTP_IMAP_POP_Details > https://mxroutedocs.com/general/smtpimappopdetails/
+https://mxroute.com/docs/#/General/Technologies > https://mxroutedocs.com/general/technologies/
