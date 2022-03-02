@@ -5,4 +5,5 @@ https://mxroute.com/docs/#/General/EU_Tax_Regulations > https://mxroutedocs.com/
 https://mxroute.com/docs/#/General/GDPR > https://mxroutedocs.com/general/gdpr/
 https://mxroute.com/docs/#/General/Not_Technical > https://mxroutedocs.com/general/nottechnical/
 https://mxroute.com/docs/#/General/IP_Reputaton?id=why-are-you-so-obsessed-with-ip-reputation > https://mxroutedocs.com/general/ipreputation/
-https://mxroute.com/docs/#/General/Migrating > 
+https://mxroute.com/docs/#/General/Migrating > https://mxroutedocs.com/general/migrate/
+https://mxroute.com/docs/#/General/SMTP_IMAP_POP_Details > https://mxroutedocs.com/general/smtpimappopdetails/
