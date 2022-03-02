@@ -4,7 +4,7 @@ baseURL = "https://mxroutedocs.com/"
 # theme
 theme = "dot-hugo"
 # site title
-title = "MXroute Support"
+title = "MXroute Support / Docs"
 # disable language
 disableLanguages = ["Fr"]
 # google analytics
