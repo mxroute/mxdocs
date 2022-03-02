@@ -3,4 +3,6 @@ https://mxroute.com/docs/#/General/Do_You_Sell_Calendars > https://mxroutedocs.c
 https://mxroute.com/docs/#/General/About_MXroute > https://mxroutedocs.com/general/about/
 https://mxroute.com/docs/#/General/EU_Tax_Regulations > https://mxroutedocs.com/general/eutax/
 https://mxroute.com/docs/#/General/GDPR > https://mxroutedocs.com/general/gdpr/
-https://mxroute.com/docs/#/General/Not_Technical > 
+https://mxroute.com/docs/#/General/Not_Technical > https://mxroutedocs.com/general/nottechnical/
+https://mxroute.com/docs/#/General/IP_Reputaton?id=why-are-you-so-obsessed-with-ip-reputation > https://mxroutedocs.com/general/ipreputation/
+https://mxroute.com/docs/#/General/Migrating > 
