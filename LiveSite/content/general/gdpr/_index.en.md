@@ -1,6 +1,6 @@
 ---
 title: "To what extent do you comply with GDPR?"
-weight: 1
+weight: 10
 draft: false
 # search related keywords
 keywords: ["vat, eu, tax"]

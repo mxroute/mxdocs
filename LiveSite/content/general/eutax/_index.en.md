@@ -1,6 +1,6 @@
 ---
 title: "Are you compliant with EU tax regulations?"
-weight: 1
+weight: 10
 draft: false
 # search related keywords
 keywords: ["vat, eu, tax"]

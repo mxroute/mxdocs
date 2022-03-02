@@ -1,6 +1,6 @@
 ---
 title: "I have no computer skills, how do I use your service?"
-weight: 1
+weight: 9
 draft: false
 # search related keywords
 keywords: ["vat, eu, tax"]
