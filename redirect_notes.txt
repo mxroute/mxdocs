@@ -11,3 +11,4 @@ https://mxroute.com/docs/#/General/Technologies > https://mxroutedocs.com/genera
 https://mxroute.com/docs/#/General/Presales_Contact > https://mxroutedocs.com/presales/contact/
 https://mxroute.com/docs/#/Presales/Refunds > https://mxroutedocs.com/presales/refunds/
 https://mxroute.com/docs/#/Presales/marketing > https://mxroutedocs.com/presales/marketing/
+https://mxroute.com/docs/#/General/Profile_Photo > https://mxroutedocs.com/general/profilephoto/
