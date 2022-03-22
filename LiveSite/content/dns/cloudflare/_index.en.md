@@ -1,5 +1,5 @@
 ---
-title: "Cloudflare"
+title: "Cloudflare DNS Tutorial"
 weight: 2
 draft: false
 # search related keywords
