@@ -13,3 +13,4 @@ https://mxroute.com/docs/#/Presales/Refunds > https://mxroutedocs.com/presales/r
 https://mxroute.com/docs/#/Presales/marketing > https://mxroutedocs.com/presales/marketing/
 https://mxroute.com/docs/#/General/Profile_Photo > https://mxroutedocs.com/general/profilephoto/
 https://mxroute.com/docs/#/DNS/dns-records > https://mxroutedocs.com/dns/dnsrecords/
+https://mxroute.com/docs/#/DNS/cloudflare > https://mxroutedocs.com/dns/cloudflare/
