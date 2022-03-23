@@ -12,5 +12,3 @@ Resources:
 
 [What is DMARC?](https://dmarcian.com/why-dmarc/)
 [DMARC Record Generator](https://dmarcian.com/dmarc-record-wizard/)
-
-Back to MXroute.com
