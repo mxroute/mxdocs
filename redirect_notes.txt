@@ -15,6 +15,9 @@ https://mxroute.com/docs/#/General/Profile_Photo > https://mxroutedocs.com/gener
 https://mxroute.com/docs/#/DNS/dns-records > https://mxroutedocs.com/dns/dnsrecords/
 https://mxroute.com/docs/#/DNS/cloudflare > https://mxroutedocs.com/dns/cloudflare/
 https://mxroute.com/docs/#/DNS/dns-overview > https://mxroutedocs.com/dns/dnsoverview/
-https://mxroute.com/docs/#/DNS/google-domains > 
-https://mxroute.com/docs/#/DNS/route53 > 
-https://mxroute.com/docs/#/DNS/setup-dkim > 
+https://mxroute.com/docs/#/DNS/google-domains > https://mxroutedocs.com/dns/googledomains/
+https://mxroute.com/docs/#/DNS/route53 > https://mxroutedocs.com/dns/route53/
+https://mxroute.com/docs/#/DNS/setup-dkim > https://mxroutedocs.com/dns/dkim/
+https://mxroute.com/docs/#/Branding/intro > 
+https://mxroute.com/docs/#/Branding/crossbox > 
+https://mxroute.com/docs/#/Branding/custom-hostnames > 
