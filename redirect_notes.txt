@@ -18,6 +18,8 @@ https://mxroute.com/docs/#/DNS/dns-overview > https://mxroutedocs.com/dns/dnsove
 https://mxroute.com/docs/#/DNS/google-domains > https://mxroutedocs.com/dns/googledomains/
 https://mxroute.com/docs/#/DNS/route53 > https://mxroutedocs.com/dns/route53/
 https://mxroute.com/docs/#/DNS/setup-dkim > https://mxroutedocs.com/dns/dkim/
-https://mxroute.com/docs/#/Branding/intro > 
-https://mxroute.com/docs/#/Branding/crossbox > 
-https://mxroute.com/docs/#/Branding/custom-hostnames > 
+https://mxroute.com/docs/#/Branding/intro > https://mxroutedocs.com/branding/intro/
+https://mxroute.com/docs/#/Branding/crossbox > https://mxroutedocs.com/branding/crossbox/
+https://mxroute.com/docs/#/Branding/custom-hostnames > https://mxroutedocs.com/branding/customhostnames/
+https://mxroute.com/docs/#/CalendarContacts/howdotheywork > 
+https://mxroute.com/docs/#/CalendarContacts/cal-macos > 
