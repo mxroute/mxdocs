@@ -23,3 +23,9 @@ https://mxroute.com/docs/#/Branding/crossbox > https://mxroutedocs.com/branding/
 https://mxroute.com/docs/#/Branding/custom-hostnames > https://mxroutedocs.com/branding/customhostnames/
 https://mxroute.com/docs/#/CalendarContacts/howdotheywork > 
 https://mxroute.com/docs/#/CalendarContacts/cal-macos > 
+https://mxroute.com/docs/#/DirectAdmin/introduction > 
+https://mxroute.com/docs/#/DirectAdmin/login > 
+https://mxroute.com/docs/#/DirectAdmin/reset-password > 
+https://mxroute.com/docs/#/DirectAdmin/add-domain > 
+https://mxroute.com/docs/#/DirectAdmin/add-email > 
+https://mxroute.com/docs/#/DirectAdmin/change-default-webmail > 
