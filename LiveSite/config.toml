@@ -44,31 +44,15 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 
 ############################## social links ##############################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-name = "Facebook"
-link = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-name = "Twitter"
-link = "#"
-  
-[[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 name = "Github"
-link = "#"
-  
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-name = "Linkedin"
-link = "#"
+link = "https://github.com/mxroute/mxdocs"
 
 ################################ English Language ######################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 weight = 1
-copyright = "Copyright &copy; 2021 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
 
 # banner
 [Languages.en.params.banner]
@@ -86,7 +70,7 @@ content = "As a low cost service, self-help is very important. If you can't find
 [Languages.en.params.cta.button]
 enable = true
 label = "contact us"
-link = "contact/"
+link = "https://accounts.mxroute.com/index.php?/tickets/"
 
 
 ################## english navigation #################
