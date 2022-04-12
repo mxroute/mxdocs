@@ -29,4 +29,5 @@ https://mxroute.com/docs/#/DirectAdmin/reset-password > https://mxroutedocs.com/
 https://mxroute.com/docs/#/DirectAdmin/add-domain > https://mxroutedocs.com/directadmin/adddomain/
 https://mxroute.com/docs/#/DirectAdmin/add-email > https://mxroutedocs.com/directadmin/addemail/
 https://mxroute.com/docs/#/DirectAdmin/change-default-webmail > https://mxroutedocs.com/directadmin/defaultwebmail/
-https://mxroute.com/docs/#/MiscTutorials/gmail >
+https://mxroute.com/docs/#/MiscTutorials/gmail > https://mxroutedocs.com/general/gmail/
+https://mxroute.com/docs/#/Security/2fa >
