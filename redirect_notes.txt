@@ -21,11 +21,12 @@ https://mxroute.com/docs/#/DNS/setup-dkim > https://mxroutedocs.com/dns/dkim/
 https://mxroute.com/docs/#/Branding/intro > https://mxroutedocs.com/branding/intro/
 https://mxroute.com/docs/#/Branding/crossbox > https://mxroutedocs.com/branding/crossbox/
 https://mxroute.com/docs/#/Branding/custom-hostnames > https://mxroutedocs.com/branding/customhostnames/
-https://mxroute.com/docs/#/CalendarContacts/howdotheywork > 
-https://mxroute.com/docs/#/CalendarContacts/cal-macos > 
-https://mxroute.com/docs/#/DirectAdmin/introduction > 
-https://mxroute.com/docs/#/DirectAdmin/login > 
-https://mxroute.com/docs/#/DirectAdmin/reset-password > 
-https://mxroute.com/docs/#/DirectAdmin/add-domain > 
-https://mxroute.com/docs/#/DirectAdmin/add-email > 
-https://mxroute.com/docs/#/DirectAdmin/change-default-webmail > 
+https://mxroute.com/docs/#/CalendarContacts/howdotheywork > https://mxroutedocs.com/calendarcontacts/howdotheywork/
+https://mxroute.com/docs/#/CalendarContacts/cal-macos > https://mxroutedocs.com/calendarcontacts/cal-macos/
+https://mxroute.com/docs/#/DirectAdmin/introduction > https://mxroutedocs.com/directadmin/shortcomings/
+https://mxroute.com/docs/#/DirectAdmin/login > https://mxroutedocs.com/directadmin/login/
+https://mxroute.com/docs/#/DirectAdmin/reset-password > https://mxroutedocs.com/directadmin/resetpass/
+https://mxroute.com/docs/#/DirectAdmin/add-domain > https://mxroutedocs.com/directadmin/adddomain/
+https://mxroute.com/docs/#/DirectAdmin/add-email > https://mxroutedocs.com/directadmin/addemail/
+https://mxroute.com/docs/#/DirectAdmin/change-default-webmail > https://mxroutedocs.com/directadmin/defaultwebmail/
+https://mxroute.com/docs/#/MiscTutorials/gmail >
