@@ -10,6 +10,6 @@ There are a lot of different ways that you can handle calendar and contacts. Rig
 
 Through our license with Afterlogic, we provide CalDAV and CardDAV which do work with many applications/systems. You need to locate the URL for these items by logging into AfterLogic (DirectAdmin \> Webmail \> Afterlogic, or servername.tld/afterlogic if you know which server you’re on). Keep in mind that our other webmail systems (Crossbox, Roundcube) may have their own calendars and contacts that do not sync with or connect to the ones in Afterlogic.
 
-Once logged into Afterlogic, click on Settings at the top right, and then on Mobile Sync on the left side. There you will find URLs for your contacts and calendar. These will be requested by your application when setting up Cal/CardDAV. The username/password will be your full email address and password, the same as you created in [another tutorial](https://mxroute.com/docs/add-new-email-account/).
+Once logged into Afterlogic, click on Settings at the top right, and then on Mobile Sync on the left side. There you will find URLs for your contacts and calendar. These will be requested by your application when setting up Cal/CardDAV. The username/password will be your full email address and password, the same as you created in [another tutorial](https://mxroutedocs.com/directadmin/addemail/).
 
 Device/app-specific tutorials coming soon.

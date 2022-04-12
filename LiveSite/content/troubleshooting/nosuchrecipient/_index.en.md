@@ -15,6 +15,6 @@ So now you have to ask yourself some questions:
 
 Is it really worth sending this test email before you finish moving your mail over? Are you okay with making a change to our server’s configuration, which will cause our server to reject inbound mail for your domain if you forget to reverse it after changing your MX records to point to our server, just to send a test email?
 
-If it is worth it, or you don’t intend to move one or more of those domains to have it’s inbound hosted on our servers, then the answer is simple. [Log in to DirectAdmin](https://mxroute.com/docs/login-to-directadmin/), click on E-mail Manager, click on Email Routing, and uncheck the box that says “Use this server…” next to it. Mission accomplished.
+If it is worth it, or you don’t intend to move one or more of those domains to have it’s inbound hosted on our servers, then the answer is simple. [Log in to DirectAdmin](https://mxroutedocs.com/directadmin/login/), click on E-mail Manager, click on Email Routing, and uncheck the box that says “Use this server…” next to it. Mission accomplished.
 
-If you change your MX records to point to us later, you’re going to have to reverse that setting or you’ll end up receiving [another common error](https://mxroute.com/docs/550-authentication-required/).
+If you change your MX records to point to us later, you’re going to have to reverse that setting or you’ll end up receiving [another common error](https://mxroutedocs.com/troubleshooting/550auth/).

@@ -14,6 +14,6 @@ If you receive this, it means we sent you a warning and you did not comply. We m
 
 We absolutely require that you use our SPF record to send email through our service. We may not notice if you are not, unless your emails are being declined due to it. Failed deliveries can impact IP reputation, and your failure to take proper measures to ensure that delivery from your domain is possible is not appreciated.
 
-[SPF documentation](https://mxroute.com/docs/dns-overview/).
+[SPF documentation](https://mxroutedocs.com/dns/dnsoverview/).
 
-[Request domain to be unblocked](https://mxroute.com/support/).
+[Request domain to be unblocked](https://accounts.mxroute.com/index.php?/tickets/).

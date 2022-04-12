@@ -7,7 +7,7 @@ keywords: ["directadmin, email, e-mail, add, account"]
 ---
 
 ## Log into control panel
-[Click here](https://mxroute.com/docs/login-to-directadmin/) to learn how to do that.
+[Click here](https://mxroutedocs.com/directadmin/login/) to learn how to do that.
 
 ## Select the domain
 Once logged in to the control panel, make sure that you have the domain selected in the top-right:

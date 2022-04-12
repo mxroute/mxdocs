@@ -12,9 +12,9 @@ This tutorial was made by one of our amazing customers.
 
 This guide is designed for people who (like me) have limited experience setting up mail servers or DNS. It will largely depend on three official pages (so you may want to take a look there for further reference):
 
-[https://mxroute.com/docs/setup-dkim/](https://mxroute.com/docs/setup-dkim/)  
-[https://mxroute.com/docs/custom-webmail-pop-imap-smtp-domain/](https://mxroute.com/docs/custom-webmail-pop-imap-smtp-domain/)  
-[https://mxroute.com/docs/add-new-email-account/](https://mxroute.com/docs/add-new-email-account/)
+https://mxroutedocs.com/dns/dkim/
+https://mxroutehelp.com/index.php/2019/08/25/custom-webmail-pop-imap-smtp-domain/
+https://mxroutedocs.com/directadmin/addemail/
 
 ## Start
 You should have received an email after signing up called “[MXroute] Important Account Information”. It will contain a user/pass and URL for the server on which you’re hosted.
