@@ -30,4 +30,13 @@ https://mxroute.com/docs/#/DirectAdmin/add-domain > https://mxroutedocs.com/dire
 https://mxroute.com/docs/#/DirectAdmin/add-email > https://mxroutedocs.com/directadmin/addemail/
 https://mxroute.com/docs/#/DirectAdmin/change-default-webmail > https://mxroutedocs.com/directadmin/defaultwebmail/
 https://mxroute.com/docs/#/MiscTutorials/gmail > https://mxroutedocs.com/general/gmail/
-https://mxroute.com/docs/#/Security/2fa >
+https://mxroute.com/docs/#/Security/2fa > https://mxroutedocs.com/security/2fa/
+https://mxroute.com/docs/#/Troubleshooting/550authrequired >
+https://mxroute.com/docs/#/Troubleshooting/blocking >
+https://mxroute.com/docs/#/Troubleshooting/failurespfcomply >
+https://mxroute.com/docs/#/Troubleshooting/gmail-spam >
+https://mxroute.com/docs/#/Troubleshooting/gmailforwardnowork >
+https://mxroute.com/docs/#/Troubleshooting/gmailforwardpop3 >
+https://mxroute.com/docs/#/Troubleshooting/microsoft-noreceive >
+https://mxroute.com/docs/#/Troubleshooting/microsoft-spam >
+https://mxroute.com/docs/#/Troubleshooting/nosuchrecipient >

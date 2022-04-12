@@ -81,7 +81,7 @@ placeholder = "Have a question? Just ask here or enter terms"
 [Languages.en.params.cta]
 enable = true
 title = "Didn't find an answer to your question?"
-content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+content = "As a low cost service, self-help is very important. If you can't find the answer, open a ticket with us. If you are not a customer, we encourage you to ask questions at chat.mxroute.com."
 # call to action button
 [Languages.en.params.cta.button]
 enable = true
