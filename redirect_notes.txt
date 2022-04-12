@@ -31,12 +31,12 @@ https://mxroute.com/docs/#/DirectAdmin/add-email > https://mxroutedocs.com/direc
 https://mxroute.com/docs/#/DirectAdmin/change-default-webmail > https://mxroutedocs.com/directadmin/defaultwebmail/
 https://mxroute.com/docs/#/MiscTutorials/gmail > https://mxroutedocs.com/general/gmail/
 https://mxroute.com/docs/#/Security/2fa > https://mxroutedocs.com/security/2fa/
-https://mxroute.com/docs/#/Troubleshooting/550authrequired >
-https://mxroute.com/docs/#/Troubleshooting/blocking >
-https://mxroute.com/docs/#/Troubleshooting/failurespfcomply >
-https://mxroute.com/docs/#/Troubleshooting/gmail-spam >
-https://mxroute.com/docs/#/Troubleshooting/gmailforwardnowork >
-https://mxroute.com/docs/#/Troubleshooting/gmailforwardpop3 >
-https://mxroute.com/docs/#/Troubleshooting/microsoft-noreceive >
-https://mxroute.com/docs/#/Troubleshooting/microsoft-spam >
-https://mxroute.com/docs/#/Troubleshooting/nosuchrecipient >
+https://mxroute.com/docs/#/Troubleshooting/550authrequired > https://mxroutedocs.com/troubleshooting/550auth/
+https://mxroute.com/docs/#/Troubleshooting/blocking > https://mxroutedocs.com/troubleshooting/blocking/
+https://mxroute.com/docs/#/Troubleshooting/failurespfcomply > https://mxroutedocs.com/troubleshooting/failurespf/
+https://mxroute.com/docs/#/Troubleshooting/gmail-spam > https://mxroutedocs.com/troubleshooting/gmailspam/
+https://mxroute.com/docs/#/Troubleshooting/gmailforwardnowork > https://mxroutedocs.com/troubleshooting/gmailforwardnowork/
+https://mxroute.com/docs/#/Troubleshooting/gmailforwardpop3 > https://mxroutedocs.com/troubleshooting/gmailpop3nowork/
+https://mxroute.com/docs/#/Troubleshooting/microsoft-noreceive > https://mxroutedocs.com/troubleshooting/microsoftnoreceive/
+https://mxroute.com/docs/#/Troubleshooting/microsoft-spam > https://mxroutedocs.com/troubleshooting/hotmailspam/
+https://mxroute.com/docs/#/Troubleshooting/nosuchrecipient > https://mxroutedocs.com/troubleshooting/nosuchrecipient/
