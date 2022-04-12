@@ -1,8 +1,9 @@
 ---
 title: "DirectAdmin"
-date: 2018-12-28T11:02:05+06:00
-icon: "ti-panel"
-weight: 4
-description: "Tutorials for using DirectAdmin, our control panel"
-type : "directadmin, login, domain, email account"
+date: 2018-12-29T11:02:05+06:00
+icon: "ti-calendar"
+description: "DirectAdmin tutorials"
+type : "docs"
 ---
+
+DirectAdmin is a web hosting control panel that we have stripped down as much as possible to serve our purpose for administration of email. While our backend is heavily custom, DA is a licensed control panel intended to serve this role until we develop our own panel.
