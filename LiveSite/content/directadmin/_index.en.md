@@ -1,7 +1,7 @@
 ---
 title: "DirectAdmin"
 date: 2018-12-29T11:02:05+06:00
-icon: "ti-calendar"
+icon: "ti-panel"
 description: "DirectAdmin tutorials"
 type : "docs"
 ---
