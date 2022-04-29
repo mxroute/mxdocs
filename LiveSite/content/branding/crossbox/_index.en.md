@@ -11,7 +11,7 @@ keywords: ["branding, crossbox"]
 You can completely brand Crossbox to fit your own needs, for yourself and your customers, friends, family, etc. You’ll have your own login URL, your own name for it, and your own logo. Here’s a quick guide to setting that up.
 
 ## Step 1: Create admin
-First you need to create an admin@ account on your domain. You can find a guide for creating an email account at this link.
+First you need to create an admin@ account on your domain. You can find a guide for creating an email account at this link [Add Email Account](https://mxroutedocs.com/directadmin/addemail/).
 
 ## Step 2: Login to Crossbox
 You can log in at [https://mail.mxlogin.com](https://mail.mxlogin.com). Log in with the admin@ account you created in step 1.
