@@ -34,7 +34,7 @@ FROM nginx:1.15-alpine
 #WORKDIR /usr/share/nginx/html/
 WORKDIR /site
 
-RUN sed -i '9i\        include /etc/nginx/conf.d/headers.inc;\n' /etc/nginx/conf.d/default.conf
+RUN sed -i '4i\        include /etc/nginx/conf.d/headers.inc;\n' /etc/nginx/conf.d/default.conf
 COPY headers.inc /etc/nginx/conf.d/headers.inc
 RUN chmod 0644 /etc/nginx/conf.d/headers.inc
 RUN cat /etc/nginx/conf.d/default.conf
