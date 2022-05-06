@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://mxdocs.mxroute.app/"
+baseURL = "https://mxroutedocs.com/"
 # theme
 theme = "dot-hugo"
 # site title
