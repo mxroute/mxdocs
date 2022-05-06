@@ -26,4 +26,5 @@ RUN git clone https://github.com/themefisher/dot-hugo
 WORKDIR /site/LiveSite
 RUN pwd
 RUN ls
-RUN hugo --minify --gc --themesDir /site/themes
+RUN /hugo --minify --gc --themesDir /site/themes
+RUN /hugo --minify --gc --themesDir /site/themes
