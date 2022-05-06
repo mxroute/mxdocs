@@ -31,7 +31,8 @@ RUN /hugo --minify --gc --themesDir /site/themes
 # stage 2
 FROM nginx:1.15-alpine
 
-WORKDIR /usr/share/nginx/html/
+#WORKDIR /usr/share/nginx/html/
+WORKDIR /site
 
 RUN sed -i '9i\        include /etc/nginx/conf.d/headers.inc;\n' /etc/nginx/conf.d/default.conf
 COPY headers.inc /etc/nginx/conf.d/headers.inc
