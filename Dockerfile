@@ -26,7 +26,7 @@ RUN git clone https://github.com/themefisher/dot-hugo
 WORKDIR /site/LiveSite
 RUN pwd
 RUN ls
-RUN /hugo --minify --gc --themesDir /site
+RUN /hugo --minify --gc --themesDir /site/themes
 
 # stage 2
 FROM nginx:1.15-alpine
