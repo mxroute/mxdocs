@@ -20,7 +20,7 @@ WORKDIR /site
 
 RUN mkdir themes
 WORKDIR /site/themes
-RUN git clone git@github.com:themefisher/dot-hugo.git
+RUN git clone https://github.com/themefisher/dot-hugo
 
 # And then we just run Hugo
 WORKDIR /site/LiveSite
