@@ -21,6 +21,7 @@ WORKDIR /site
 # And then we just run Hugo
 RUN cd LiveSite
 RUN pwd
+RUN ls /site
 RUN /hugo --minify --gc --themesDir ../..
 
 # stage 2
