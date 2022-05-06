@@ -19,9 +19,9 @@ COPY . /site
 WORKDIR /site
 
 # And then we just run Hugo
-RUN cd LiveSite
+WORKDIR /site/LiveSite
 RUN pwd
-RUN ls /site
+RUN ls
 RUN /hugo --minify --gc --themesDir ../..
 
 # stage 2
