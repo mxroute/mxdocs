@@ -18,6 +18,10 @@ RUN apk add --no-cache git
 COPY . /site
 WORKDIR /site
 
+RUN mkdir themes
+WORKDIR /site/themes
+RUN git clone git@github.com:themefisher/dot-hugo.git
+
 # And then we just run Hugo
 WORKDIR /site/LiveSite
 RUN pwd
