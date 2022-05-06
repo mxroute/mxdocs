@@ -5,7 +5,7 @@
 FROM alpine:3.9 AS build
 
 # The Hugo version
-ARG VERSION=0.55.6
+ARG VERSION=0.87.0
 
 ADD https://github.com/gohugoio/hugo/releases/download/v${VERSION}/hugo_${VERSION}_Linux-64bit.tar.gz /hugo.tar.gz
 RUN tar -zxvf hugo.tar.gz
