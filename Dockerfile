@@ -22,7 +22,7 @@ WORKDIR /site
 WORKDIR /site/LiveSite
 RUN pwd
 RUN ls
-RUN /hugo --minify --gc --themesDir ../..
+RUN /hugo --minify --gc --themesDir /site
 
 # stage 2
 FROM nginx:1.15-alpine
