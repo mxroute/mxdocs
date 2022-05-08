@@ -83,3 +83,8 @@ weight = 1
 name = "Faq"
 url = "faq/"
 weight = 2
+
+[[Languages.en.menu.main]]
+name = "Chat"
+url = "https://chat.mxroute.com"
+weight = 3
