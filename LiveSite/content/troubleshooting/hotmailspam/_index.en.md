@@ -19,7 +19,7 @@ You do your best by making sure that you get a 10 out of 10 score from mail-test
 
 ## Report it as a false positive
 Microsoft has an article published about reporting false positives to them:  
-[https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/submit-spam-non-spam-and-phishing-scam-messages-to-microsoft-for-analysis?view=o365-worldwide](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/submit-spam-non-spam-and-phishing-scam-messages-to-microsoft-for-analysis?view=o365-worldwide)
+[https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/report-false-positives-and-false-negatives?view=o365-worldwide](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/report-false-positives-and-false-negatives?view=o365-worldwide)
 
 ## “It’s your dirty IP reputation!”
 We’re going to get this a lot so we might as well publicly address it. We have no evidence that our IP reputation increases the chance of spam folder delivery with Hotmail other than hearsay and theoretical correlation. Here are the reasons we refute this accusation:
