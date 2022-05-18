@@ -30,4 +30,6 @@ From there, you will see this interface:
 
 **Email Quota** is the amount of disk space in MB that you want that account to be able to use. **Send Limit** is a daily limit on outbound email, which goes to a max of 7200 (or 300 per hour, as is our limit).
 
+**If your password is Username+123 you will be suspended, berated via support ticket, and we will be very slow to unsuspend your account. We are working on preventing this from being done, but we're amazed at the thought of even having to. All of our customers are at risk of this behavior, so if that's you, stop it.**
+
 Finally, when ready, click **CREATE ACCOUNT** at the bottom right.
