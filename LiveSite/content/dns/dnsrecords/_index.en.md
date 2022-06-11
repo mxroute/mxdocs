@@ -33,6 +33,9 @@ Your SPF record is not as unique as your MX records. Your SPF record is a TXT DN
 
 ```markup
 “v=spf1 include:mxroute.com -all”
+
+or
+
 “v=spf1 include:mxlogin.com -all”
 ```
 
