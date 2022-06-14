@@ -87,6 +87,7 @@ Your SPF record is a TXT DNS record (type is TXT, NOT SPF which is deprecated). 
 Now you want to add our SPF record to yours as an include. Maybe you have others you’ll add here too, but we can only speak for ours. You have a choice with us, we offer 3 different includes for vanity purposes. You should only pick one.
 
 > include:mxroute.com
+> 
 > include:mxlogin.com
 > include:_s00002163.autospf.email
 
