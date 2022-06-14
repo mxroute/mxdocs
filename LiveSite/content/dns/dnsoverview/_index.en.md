@@ -89,6 +89,7 @@ Now you want to add our SPF record to yours as an include. Maybe you have others
 > include:mxroute.com
 > 
 > include:mxlogin.com
+> 
 > include:_s00002163.autospf.email
 
 We recommend the first two, but if you really insist on trying to hide us from your DNS records for the purpose of vanity, you can use the third. If desperately needed, the third option above can reduce DNS lookups by 1, as SPF record includes do have a recursion limit.
