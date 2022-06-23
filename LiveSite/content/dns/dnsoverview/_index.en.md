@@ -40,6 +40,9 @@ pixel.mxrouting.net (Germany, Hetzner)
 shadow.mxrouting.net (Germany, Hetzner)
 moose.mxrouting.net (Canada, OVH)
 eagle.mxlogin.com (Canada, OVH)
+monday.mxrouting.net (ReliableSite, NY)
+tuesday.mxrouting.net (ReliableSite, NY)
+wednesday.mxrouting.net (Canada, OVH)
 
 ## Other Services
 
