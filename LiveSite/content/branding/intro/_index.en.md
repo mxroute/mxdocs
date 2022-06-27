@@ -13,8 +13,8 @@ We have a few options available for branding / whitelabeling the service.
 ## Non-reseller service
 For our regular, non-reseller customers, you can take two different paths to branding.
 
-Custom mail/webmail subdomains on the server. The “mail” subdomain is for IMAP/SMTP/POP, the “webmail” subdomain is for Roundcube.  
-Crossbox. This is a webmail product that we license, and you can brand it with the subdomain of your choice, as well as upload your own logo for the login page when visitors access it using your subdomain.
+1. Custom mail/webmail subdomains on the server. The “mail” subdomain is for IMAP/SMTP/POP, the “webmail” subdomain is for Roundcube.
+2. Crossbox. This is a webmail product that we license, and you can brand it with the subdomain of your choice, as well as upload your own logo for the login page when visitors access it using your subdomain.
 
 ## Reseller Service
 Custom mail/webmail/mailadmin subdomains on the server. The “mail” subdomain is for IMAP/SMTP/POP, the “webmail” subdomain is for Roundcube. The “mailadmin” subdomain is for DirectAdmin (since you’ll make DirectAdmin accounts for your customers).  
