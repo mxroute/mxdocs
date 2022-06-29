@@ -6,7 +6,7 @@ draft: false
 keywords: ["spam, folder, inbox"]
 ---
 
-It's a pretty common question, can we keep your emails to third party services in the inbox and out of spam folders? The simple answer is of course not, that's not even a remotely reasonable thing to promise, and anyone promising you otherwise is really hoping that you won't figure that out. The longer answer? Here we go.
+It's a pretty common question, can we keep your emails to third party services in the inbox and out of spam folders? The simple answer is of course no, that's not even a remotely reasonable thing to promise, and anyone promising you otherwise is really hoping that you won't figure that out. The longer answer? Here we go.
 
 If someone promises that your emails will always land in the inbox, they are lying. It's simply not possible to promise that. If you're wondering how I arrived at that logic, let me rephrase the question into something which is an extremely perfect example:
 
