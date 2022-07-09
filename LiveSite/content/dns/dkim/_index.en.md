@@ -42,7 +42,7 @@ IT IS **VERY IMPORTANT** THAT YOU DO NOT MISS EITHER THE DOT “.” OR THE UNDE
 
 **Troubleshooting**:
 
-If, at this stage, you found that your DNS provider does not support enough characters in a single TXT record to allow you to paste the public DKIM key, here is a tutorial on how to split it into two records:  [http://hack.limbicmedia.ca/how-to-split-dns-dkim-records-properly/]([http://hack.limbicmedia.ca/how-to-split-dns-dkim-records-properly/](https://web.archive.org/web/20200212065609/http://hack.limbicmedia.ca/how-to-split-dns-dkim-records-properly/))  
+If, at this stage, you found that your DNS provider does not support enough characters in a single TXT record to allow you to paste the public DKIM key, here is a tutorial on how to split it into two records:  [http://hack.limbicmedia.ca/how-to-split-dns-dkim-records-properly/]((https://web.archive.org/web/20200212065609/http://hack.limbicmedia.ca/how-to-split-dns-dkim-records-properly/))  
 If your DKIM isn’t working and you notice that your record has a double set of quotation marks at the beginning and end, with extra slashes as well, your DNS provider may require you to remove the quotations at the beginning and end before pasting it in their editor. Correcting this afterward may require 4-6 hours of DNS propagation.  
 Now wait an average of 4-6 hours to ensure DNS propagation, and you should be all set.
 
