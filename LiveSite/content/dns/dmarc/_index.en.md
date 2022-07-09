@@ -11,4 +11,5 @@ Sometimes customers will ask us what their DMARC record should be. This question
 Resources:
 
 [What is DMARC?](https://dmarcian.com/why-dmarc/)
+
 [DMARC Record Generator](https://dmarcian.com/dmarc-record-wizard/)
