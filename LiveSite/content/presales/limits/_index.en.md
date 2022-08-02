@@ -10,7 +10,7 @@ We want to be clear about two things:
 
 1. MXroute is a full email provider. We are not SendGrid (SpamGrid, sorry). While you can use us for transactional email, you shouldn't expect from us interfaces that match companies who commonly refer to themselves as transactional email providers.
 
-2. MXroute is not an indescriminate pipeline designed to carry any volume or quantity of shit from one location to another. That sounds harsh but hear us out. Our aim is to deliver your intentional emails to inboxes and not spam folders, where it can be at all possible for us to do that (we can't guarantee it, we aim to do everything we can to not cause it). To do that, it means your neighbor on our service cannot send the same email to the same Gmail address 600 times in one hour, just because your neighbor coded some poorly designed script that they connected to our SMTP server. We can either be an indescriminate pipeline, or we can aim for inboxes. The idea of doing both is just a funny joke.
+2. MXroute is not an indescriminate pipeline designed to carry any volume or quality of shit from one location to another. That sounds harsh but hear us out. Our aim is to deliver your intentional emails to inboxes and not spam folders, where it can be at all possible for us to do that (we can't guarantee it, we aim to do everything we can to not cause it). To do that, it means your neighbor on our service cannot send the same email to the same Gmail address 600 times in one hour, just because your neighbor coded some poorly designed script that they connected to our SMTP server. We can either be an indescriminate pipeline, or we can aim for inboxes. The idea of doing both is just a funny joke.
 
 So with that said, we do have limits. Here they are:
 
