@@ -7,7 +7,7 @@ keywords: ["spam, filters"]
 ---
 
 ## Log in to Control Panel
-You can find a guide for that by clicking this (https://mxroutedocs.com/directadmin/login/)[here].
+You can find a guide for that by clicking this [here](https://mxroutedocs.com/directadmin/login/).
 
 ## Click E-mail Manager on left side
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/afterlogin.png)
