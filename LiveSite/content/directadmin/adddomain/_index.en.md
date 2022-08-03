@@ -7,7 +7,7 @@ keywords: ["directadmin, domain"]
 ---
 
 ## Log in to Control Panel
-You can find a guide for that by clicking this link.
+You can find a guide for that by clicking this (https://mxroutedocs.com/directadmin/login/)[here].
 
 ## Open Domain Setup
 Once logged into the control panel, you can add as many domains as you need. On the left side, click on Account Manager, and then Domain Setup.
