@@ -46,9 +46,17 @@ In theory this allows you to basically quarantine the email by requiring you to 
 
 Scrolling down on that page you'll find where you can modify your blocklist and allowlist. You can use wildcards here as well. Here are a few examples of things you can put in those boxes (Always click "Add" after):
 
+
+Allowing a whole domain:
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/allowasteriskatdomain.png)
+
+Allowing a specific sender:
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/allowsenderatdomain.png)
+
+Blocking a specific sender:
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/blocksenderatdomain.png)
+
+Blocking a TLD:
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/blocktld.png)
 
 # FAQ
