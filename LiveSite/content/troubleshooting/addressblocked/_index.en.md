@@ -20,7 +20,7 @@ The most common reasons for this:
 The most common reasons for this:
 - You kept sending email to someone who didn't want it and we wanted you to get a direct error next time.
 - You were spamming absolute junk to a third party service. We know you don't read 600 cron job notifications in your Gmail inbox every day, why are you wasting resources and rate limiting on this?
-- You kept sending to an invalid recipient, one that doesn't even exist, and we're reducing the overhead reqeuired to constantly spam you with bounce errors.
+- You kept sending to an invalid recipient, one that doesn't even exist, and we're reducing the overhead required to constantly spam you with bounce errors.
 - You are determined that this address not receive email so you keep it's quota full and make us bounce every message sent to it, and we're not interested in playing that role for you.
 
 If you want to dispute any listing in these, open a ticket: https://accounts.mxroute.com/index.php?/tickets/
