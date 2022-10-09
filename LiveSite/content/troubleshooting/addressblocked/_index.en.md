@@ -11,6 +11,7 @@ We maintain a list of banned senders and recipients on each server. They are up 
 ## Your sending address has been blocked by admins
 
 The most common reasons for this:
+- We saw a significant number of rejected emails from your domain to third party services, because you didn't add us to your SPF record.
 - You were caught spoofing this sender address as your From address when sending mail, but you objectively do not own the domain in this sending address.
 - You were caught sending from an obviously invalid sender address and junking up mail queues because we can't bounce email to "root@localhost" so we ACL'd it so you would get an error instead.
 - Your sending behavior is violating policy and not just by a little.
