@@ -11,6 +11,7 @@ We maintain a list of banned senders and recipients on each server. They are up 
 ## Your sending address has been blocked by admins
 
 The most common reasons for this:
+- You sent marketing emails. We do not allow marketing emails to be sent from our platform, the fact that we only blocked your sending address means we probably still think you can be saved as a customer. If we didn't, we would have terminated the account.
 - We saw a significant number of rejected emails from your domain to third party services, because you didn't add us to your SPF record. [Fix your SPF](https://mxroutedocs.com/dns/dnsrecords/) and [open a support ticket](https://accounts.mxroute.com/index.php?/tickets/).
 - You were caught spoofing this sender address as your From address when sending mail, but you objectively do not own the domain in this sending address.
 - You were caught sending from an obviously invalid sender address and junking up mail queues because we can't bounce email to "root@localhost" so we ACL'd it so you would get an error instead.
