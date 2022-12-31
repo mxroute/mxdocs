@@ -20,7 +20,6 @@ The most common reasons for this:
 ## Your recipient address has been blocked by admins
 
 The most common reasons for this:
-- A temporary failure on the Shadow server (Dec 16, 2022) described [here](https://status.mxroute.com/clbr04ur213816hrnid0g6aozw).
 - You kept sending email to someone who didn't want it and we wanted you to get a direct error next time.
 - You were spamming absolute junk to a third party service. We know you don't read 600 cron job notifications in your Gmail inbox every day, why are you wasting resources and rate limiting on this?
 - You kept sending to an invalid recipient, one that doesn't even exist, and we're reducing the overhead required to constantly spam you with bounce errors.
