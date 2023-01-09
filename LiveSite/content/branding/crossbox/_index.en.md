@@ -10,6 +10,8 @@ keywords: ["branding, crossbox"]
 
 You can completely brand Crossbox to fit your own needs, for yourself and your customers, friends, family, etc. You’ll have your own login URL, your own name for it, and your own logo. Here’s a quick guide to setting that up.
 
+Note: The final steps involves waiting for several hours, this won't be completed instantly at the end of these steps. However, after completing the steps, nothing more will be required of you other than to wait.
+
 ## Step 1: Create admin
 First you need to create an admin@ account on your domain. You can find a guide for creating an email account at this link [Add Email Account](https://mxroutedocs.com/directadmin/addemail/).
 
@@ -48,9 +50,8 @@ Click SAVE in the top right corner of the page when you’re done.
 You’ll notice now that your branding is pending. You’ll see something like this:
 ![](https://mxrouteprod.b-cdn.net/wp-content/uploads/2020/08/8pending-300x69.png)
 
-## Step 9: Finished
+## Step 9: Finished... sort of.
 When it’s complete, you’ll get an email to that same admin@ account you’re logged in with. It’ll look like this:
 ![](https://mxrouteprod.b-cdn.net/wp-content/uploads/2020/08/9finished-300x71.png)
 
-You’re done! Visit the URL you picked, and enjoy!
-
+But then you have to wait several hours for everything to actually update, because of the number of hostnames this application manages. Hopefully, this part of the documentation can be removed by an update in the future. You should probably let it sit for a few hours now before expecting the URL to work fully.
