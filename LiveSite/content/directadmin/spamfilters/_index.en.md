@@ -72,3 +72,7 @@ Let's say I have jarland@mxroute.com as my email account, and I create forward@m
 - Can I train my spam filters to learn from my preferences?
 
 You cannot. This was an intentional decision. The overhead for using sa-learn on customer folders is justified by virtually no end result. In cases that we've observed where users used sa-learn to train bayesian filters over roughly 3 years, the result was that it finally started working and it started targeting ham as spam, forcing the user to admit after 3 years of training that the entire thing needed to be dumped. Not worth it. Spammers are too intelligent for bayesian algorithms these days.
+
+- Can we make the spam filters work better?
+
+You're welcome to continue tweaking your settings to your liking, but if you're looking for a flawless setting or a perfect match for what you've seen on some other email service, the quick answer is no. We're not anyone else, we don't steal anyone else's work, we make all of our work available an open source for anyone who wants to contribute (and we contribute to it ourselves almost daily). We're always working on it, it's not a job that will ever be finished. Spammers are humans, as are we, and we're both actively and intelligently working against each other at all times. One day they'll outsmart us, the next the opposite, rinse and repeat until the end of time.
