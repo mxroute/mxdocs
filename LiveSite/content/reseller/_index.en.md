@@ -5,3 +5,5 @@ icon: "ti-share"
 description: "Reseller Guides"
 type : "docs"
 ---
+
+These tutorials are designed to help our resellers get started.
