@@ -11,8 +11,6 @@ ARG VERSION=0.111.3
 ADD https://github.com/gohugoio/hugo/releases/download/v${VERSION}/hugo_extended_${VERSION}_Linux-64bit.tar.gz /hugo.tar.gz
 RUN tar -zxvf hugo.tar.gz
 RUN stat /hugo
-ADD https://github.com/gohugoio/hugo/releases/download/v${VERSION}/hugo_extended_${VERSION}_Linux-64bit.tar.gz /hugo.tar.gz
-RUN tar -zxvf hugo.tar.gz
 RUN /hugo version
 
 COPY . /site
