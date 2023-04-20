@@ -1,13 +1,17 @@
 FROM alpine:latest AS build
 
+RUN apk add --no-cache \
+    curl \
+    git \
+    openssh-client \
+    rsync
+
 ARG VERSION=0.111.3
 
 ADD https://github.com/gohugoio/hugo/releases/download/v${VERSION}/hugo_extended_${VERSION}_Linux-64bit.tar.gz /hugo.tar.gz
 RUN tar -zxvf hugo.tar.gz
 RUN ls /
 RUN /hugo version
-
-RUN apk add --no-cache git
 
 COPY . /site
 WORKDIR /site
