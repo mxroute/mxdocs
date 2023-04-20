@@ -1,4 +1,4 @@
-FROM alpine:3.9 AS build
+FROM alpine:latest AS build
 
 ARG VERSION=0.111.3
 
