@@ -16,66 +16,68 @@ However, this page might help you to construct the details or alternate values t
 
 These are legacy, no new customers are provisioned here.
 
-ocean.mxroute.com (Germany, Hetzner)
-aus.mxroute.com (Australia, RansomIT)
-acadia.mxroute.com (US, BuyVM)
-banshee.mxlogin.com (Germany, Hetzner)
+ocean.mxroute.com (Germany, Hetzner)  
+aus.mxroute.com (Australia, RansomIT)  
+acadia.mxroute.com (US, BuyVM)  
+banshee.mxlogin.com (Germany, Hetzner)  
 friday.mxlogin.com (Germany, Hetzner)
 
 ## DirectAdmin Servers
 
 All new customers are provisioned on one of these servers.
 
-london.mxroute.com (Netherlands, Worldstream – No new customers provisioned)
-longhorn.mxrouting.net (US, BuyVM – No new customers provisioned)
-safari.mxrouting.net (Virginia, US)
-lucy.mxrouting.net (Virginia, US)
-arrow.mxrouting.net (Virginia, US)
-echo.mxrouting.net (Virginia, US)
-blizzard.mxrouting.net (Virginia, US)
-sunfire.mxrouting.net (Virginia, US)
-taylor.mxrouting.net (Virginia, US)
-pixel.mxrouting.net (Virginia, US)
-shadow.mxrouting.net (Germany)
-moose.mxrouting.net (Virginia, US)
-eagle.mxlogin.com (Virginia, US)
-monday.mxrouting.net (Virginia, US)
-tuesday.mxrouting.net (Virginia, US)
-wednesday.mxrouting.net (Virginia, US)
+london.mxroute.com (Netherlands, Worldstream – No new customers provisioned)  
+longhorn.mxrouting.net (US, BuyVM – No new customers provisioned)  
+safari.mxrouting.net (Virginia, US)  
+lucy.mxrouting.net (Virginia, US)  
+arrow.mxrouting.net (Virginia, US)  
+echo.mxrouting.net (Virginia, US)  
+blizzard.mxrouting.net (Virginia, US)  
+sunfire.mxrouting.net (Virginia, US)  
+taylor.mxrouting.net (Virginia, US)  
+pixel.mxrouting.net (Virginia, US)  
+shadow.mxrouting.net (Germany)  
+moose.mxrouting.net (Virginia, US)  
+eagle.mxlogin.com (Virginia, US)  
+monday.mxrouting.net (Virginia, US)  
+tuesday.mxrouting.net (Virginia, US)  
+wednesday.mxrouting.net (Virginia, US)  
 redbull.mxrouting.net (Virginia, US)
 
 ## Other Services
 
-mail.mxlogin.com (Crossbox, Germany, Hetzner)
-Outbound filters (Dallas)
-Outbound Relay Infrastructure:
-– /24 owned IPs (Dallas, Vultr)
-– Redis (Dallas, Vultr)
+mail.mxlogin.com (Crossbox, Germany, Hetzner)  
+Outbound filters (Dallas)  
+Outbound Relay Infrastructure:  
+– /24 owned IPs (Dallas, Vultr)  
+– Redis (Dallas, Vultr)  
 – MongoDB (Dallas, Vultr)
 
 ## MX Records
 
 All MX records are given consisting of two values:
 
-Record 1: {server}.domain.tld (Priority 10)
+Record 1: {server}.domain.tld (Priority 10)  
 Record 2: {server}-relay.domain.tld (Priority 20)
 
 So if, for example, your server is blizzard.mxrouting.net, then your MX records are:
 
-Record 1: blizzard.mxrouting.net (Priority 10)
+Record 1: blizzard.mxrouting.net (Priority 10)  
 Record 2: blizzard-relay.mxrouting.net (Priority 20)
 
 ## Backup Relays
 
 You’re right to note that both the primary and secondary point to the same IP. This is a placeholder for future expansion, and should not be considered a limitation of the service for two reasons:
 
-Our original backup relay deployments increased your chances of not receiving an email. The mere existence of a backup relay may look impressive but is not at all inherently so.
-It is the job of a sending server to try again later if they cannot reach the server at your MX record for delivery. This makes a backup relay more of an unnecessary luxury, though it may not be true forever.
+1. Our original backup relay deployments increased your chances of not receiving an email. The mere existence of a backup relay may look impressive but is not at all inherently so.  
+2. It is the job of a sending server to try again later if they cannot reach the server at your MX record for delivery. This makes a backup relay more of an unnecessary luxury, though it may not be true 
+forever.
 
 Notes:
 
-If the primary server is not down and is merely rejecting email, the sender isn’t going to try the backup relay anyway, so a backup relay doesn’t protect you from primary server issues that aren’t outages.
-If you have the “-relay” records in your MX and we add backup relays later, we don’t have to ask you to do anything, you just get the feature. We want to reserve that ability.
+- If the primary server is not down and is merely rejecting email, the sender isn’t going to try the backup relay anyway, so a backup relay doesn’t protect you from primary server issues that aren’t 
+outages.  
+- If you have the “-relay” records in your MX and we add backup relays later, we don’t have to ask you to do anything, you just get the feature. We want to reserve that ability.
 
 ## SPF Records
 
