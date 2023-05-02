@@ -19,6 +19,8 @@ Here, in the screenshot above, you can see the interface for configuring your ac
 
 ### Always scroll to the bottom of the page and click "Save" after making any changes to your spam filter configuration.
 
+Now let's describe the functions on this page:
+
 ## Where to send the spam?
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/wheretosendspam.png)
 
