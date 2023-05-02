@@ -17,6 +17,8 @@ You can find a guide for that by clicking this [here](https://mxroutedocs.com/di
 
 Here, in the screenshot above, you can see the interface for configuring your account's spam filters. Next, let's break down what each section means.
 
+### Always scroll to the bottom of the page and click "Save" after making any changes to your spam filter configuration.
+
 ## Where to send the spam?
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/wheretosendspam.png)
 
