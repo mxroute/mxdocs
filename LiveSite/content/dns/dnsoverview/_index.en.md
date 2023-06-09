@@ -43,6 +43,7 @@ monday.mxrouting.net (Virginia, US)
 tuesday.mxrouting.net (Virginia, US)  
 wednesday.mxrouting.net (Virginia, US)  
 redbull.mxrouting.net (Virginia, US)
+witcher.mxrouting.net (Utah, US)
 
 ## Other Services
 
@@ -89,15 +90,13 @@ Your SPF record is a TXT DNS record (type is TXT, NOT SPF which is deprecated). 
 
 > v=spf1
 
-Now you want to add our SPF record to yours as an include. Maybe you have others you’ll add here too, but we can only speak for ours. You have a choice with us, we offer 3 different includes for vanity purposes. You should only pick one.
+Now you want to add our SPF record to yours as an include. Maybe you have others you’ll add here too, but we can only speak for ours. You have a choice with us, we offer 2 different includes. You should only pick one.
 
 > include:mxroute.com
 > 
 > include:mxlogin.com
-> 
-> include:_s00002163.autospf.email
 
-We recommend the first two, but if you really insist on trying to hide us from your DNS records for the purpose of vanity, you can use the third. If desperately needed, the third option above can reduce DNS lookups by 1, as SPF record includes do have a recursion limit.
+
 
 Now you have to decide what you want to request of recipient servers if they receive email from your domain that doesn’t come from one of the places you specified in your SPF record. You get to pick from three options:
 
