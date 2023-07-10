@@ -41,7 +41,7 @@ Next, I make another record with the same steps, only I use “**mail**” inste
 If you are ready for the next step, [Log In to the Control Panel](https://mxroutehelp.com/index.php/2019/08/24/log-in-to-control-panel/) and click on **Account Manager** on the left side. From there, click **SSL Certificates**:
 ![](https://mxrouteprod.b-cdn.net/wp-content/uploads/2021/05/Screen-Shot-at-August-24th-2019-9.37.33-pm.png)
 
-From there, click on **Free & automatic certificate from Let’s Encrypt**. It looks like this:
+From there, click on **Get automatic certificate from ACME Provider**. It looks like this:
 ![](https://mxrouteprod.b-cdn.net/wp-content/uploads/2021/05/Screen-Shot-at-August-24th-2019-9.37.48-pm.png)
 
 You will arrive at a page that looks like this:
