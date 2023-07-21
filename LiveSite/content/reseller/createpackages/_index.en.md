@@ -13,15 +13,15 @@ Note: You CAN oversell with these packages, you are only held to the total combi
 # Step 1: Create Package
 Mouse over the Account Manager menu and click on Manage User Packages.
 
-[Screenshot 1 Missing]
+![](https://assets.mxrouteapps.com/Create_Packages/Manage_Packages_Menu.png)
 
 On the right side, look for the ADD PACKAGE button and click it.
 
-[Screenshot 2 Missing]
+![](https://assets.mxrouteapps.com/Create_Packages/addpackage.png)
 
 This might look overwhelming, here’s a bit of what you’re going to see next:
 
-[Screenshot 3 Missing]
+![](https://assets.mxrouteapps.com/Create_Packages/addpackage_page.png)
 
 Let me walk you through these items. For any of these items, you can select “Unlimited” on the right to not be bound by a limit on that feature.
 
@@ -49,6 +49,8 @@ Let me walk you through these items. For any of these items, you can select “U
  - DNS Control. To some degree you need this, for DKIM keys.
  - Skin. We recommend Evolution, and that’s what we show you how to customize in another tutorial.
  - Language. We only have “en” right now.
+ - Feature Sets. Leave this at "Allow All" trust me, you don't want to screw with this.
+ - Plugins Allow/Deny. Same, leave as "Allow All" if you don't want to break something.
  - Package Name. Up to you. Customers will likely see this somewhere.
 
 # Step 2: Just kidding, there is no step 2.
