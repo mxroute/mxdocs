@@ -10,11 +10,11 @@ If you have a reseller account you will be able to make user accounts for your c
 
 If you mouse over the Account Manager menu in DirectAdmin, you will see an option to Add New User. Click on that.
 
-[Screenshot 1 Missing]
+![](https://assets.mxrouteapps.com/Add_User/addusermenu.png)
 
 You will be taken to a page with a fairly simple layout:
 
-[Screenshot 2 Missing]
+![](https://assets.mxrouteapps.com/Add_User/adduserpage.png)
 
 Username is the username your customer will log in with to DirectAdmin. This has to be unique, and will fail if another username on the server matches your choice.
 
