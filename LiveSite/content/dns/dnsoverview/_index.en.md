@@ -42,7 +42,7 @@ eagle.mxlogin.com (Virginia, US)
 monday.mxrouting.net (Virginia, US)  
 tuesday.mxrouting.net (Virginia, US)  
 wednesday.mxrouting.net (Virginia, US)  
-redbull.mxrouting.net (Virginia, US)
+redbull.mxrouting.net (Virginia, US)  
 witcher.mxrouting.net (Utah, US)
 
 ## Other Services
