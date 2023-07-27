@@ -1,3 +1,10 @@
+---
+title: "How does billing work?"
+weight: 3
+draft: false
+# search related keywords
+keywords: ["billing"]
+---
 BILLING:
 
 Every service is scheduled to auto-renew unless a cancellation notice is placed in the Accounts Portal before the renewal invoice is issued.
