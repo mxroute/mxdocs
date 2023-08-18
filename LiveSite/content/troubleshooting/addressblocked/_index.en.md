@@ -11,7 +11,7 @@ We maintain a list of banned senders and recipients on each server. They are up 
 ## Your sending address has been blocked by admins
 
 The most common reasons for this:
-- Violationg of "Intended for human consumption" [policy](https://mxroute.com/policy.html)
+- Violation of "Intended for human consumption" [policy](https://mxroute.com/policy.html)
 - You recently sent too many emails to invalid recipients. This must mean you are either sending spam, sending to a non double opt in mailing list (which we also consider to be spam), or you have made a mistake which threatens to negatively impact the reputation of your domain.
 - Your Wordpress contact form was being used to send spam to third party email services with which we would like to maintain a highly positive reputation (Gmail, Hotmail, Yahoo, etc).
 - You were intentionally circumventing the 300 outbound per hour limit by sending the same email campaign from additional addresses (ex. sender1, sender2, sender3, etc).
