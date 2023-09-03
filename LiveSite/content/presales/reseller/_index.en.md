@@ -13,3 +13,5 @@ Recommended resellers:
 [AnyDomain](https://anydomain.email/)
 
 [OnePoundEmail](https://onepoundemail.co.uk/)
+
+[Zarbyte](https://zarbyte.com/services/email-hosting/)
