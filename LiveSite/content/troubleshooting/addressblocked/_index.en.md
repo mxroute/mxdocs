@@ -28,6 +28,7 @@ The most common reasons for this:
 - You kept sending email to someone who didn't want it and we wanted you to get a direct error next time.
 - You were spamming absolute junk to a third party service. We know you don't read 600 cron job notifications in your Gmail inbox every day, why are you wasting resources and rate limiting on this?
 - You kept sending to an invalid recipient, one that doesn't even exist, and we're reducing the overhead required to constantly spam you with bounce errors.
+- You tried to send email to a domain that does not have a valid MX record in DNS, and we're blocking it to reduce overhead and preserve our IP reputation.
 - You are determined that this address not receive email so you keep it's quota full and make us bounce every message sent to it, and we're not interested in playing that role for you.
 - Your recipient has a misconfigured server causing it to claim we are blacklisted at spamhaus when we are not, which is causing our automation to put the IPs we tried to send the mail from into a cooldown/mitigation period. It's unreasonable for us to address this problem on their behalf.
 
