@@ -6,7 +6,7 @@ draft: false
 keywords: ["microsoft, office, 365, outlook, hotmail"]
 ---
 
-If you’re sending emails to a recipient that uses Office 365 / Hotmail / Outlook / Exchange and they are not receiving your email, this is actually a fairly common report. First, we encourage you to reach out to support@mxroute.com and give us a message similar to this:
+If you’re sending emails to a recipient that uses Office 365 / Hotmail / Outlook / Exchange and they are not receiving your email, this is actually a fairly common report. First, we encourage you to open a support ticket and give us a message similar to this:
 
     “We sent an email from _____ to _____ on {recent date), with subject _____. We did not receive any error back, and they claim to have not received it. Can you check for me?”
 
