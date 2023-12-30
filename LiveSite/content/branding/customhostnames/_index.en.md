@@ -31,7 +31,7 @@ When I do that, I get a popup that I fill in with this information:
 
 You always use “**webmail**” as the name of the record. Your DNS provider may call it Name, Record, Host, or something else. It is to be a **CNAME** record type, and **Points To** (possibly also called **Value** or **Target**) is the server address you found in the previous step (**for me, it’s lisa.mxrouting.net**).
 
-** Please note:  We strongly suggest using CNAME records.  Please **DO NOT** use an A record as server IP addresses are subject to change!
+** Please note:  We only recommend using CNAME records.  Please **DO NOT** use an A record as server IP addresses are subject to change without notice!
 
 Next, I make another record with the same steps, only I use “**mail**” instead of “**webmail**” when filling it in:
 ![](https://mxrouteprod.b-cdn.net/wp-content/uploads/2021/05/Screen-Shot-at-August-24th-2019-9.37.19-pm.png)
