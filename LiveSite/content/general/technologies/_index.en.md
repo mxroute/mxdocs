@@ -10,7 +10,7 @@ keywords: ["technologies, features"]
 
 The overall technologies we use are:
 
-Exim, Postfix, Dovecot, SpamAssassin, Dovecot, Roundcube, Crossbox, Snappy (Rainloop fork), DirectAdmin
+Exim, Postfix, Dovecot, SpamAssassin, Roundcube, Crossbox, Snappy (Rainloop fork), DirectAdmin
 
 #### E-mail Flow
 
