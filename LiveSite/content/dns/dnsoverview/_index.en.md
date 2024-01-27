@@ -12,48 +12,6 @@ This is a comprehensive overview of our DNS structure, including a list of our s
 
 However, this page might help you to construct the details or alternate values to those details in the event that you have lost it or are seeking more information.
 
-## cPanel Servers
-
-These are legacy, no new customers are provisioned here.
-
-ocean.mxroute.com (Germany, Hetzner)  
-aus.mxroute.com (Australia, RansomIT)  
-acadia.mxroute.com (US, BuyVM)  
-banshee.mxlogin.com (Germany, Hetzner)  
-friday.mxlogin.com (Germany, Hetzner)
-
-## DirectAdmin Servers
-
-All new customers are provisioned on one of these servers.
-
-london.mxroute.com (Netherlands, Worldstream – No new customers provisioned)  
-longhorn.mxrouting.net (US, BuyVM – No new customers provisioned)  
-safari.mxrouting.net (Virginia, US)  
-lucy.mxrouting.net (Virginia, US)  
-arrow.mxrouting.net (Virginia, US)  
-echo.mxrouting.net (Virginia, US)  
-blizzard.mxrouting.net (Virginia, US)  
-sunfire.mxrouting.net (Germany)  
-taylor.mxrouting.net (Virginia, US)  
-pixel.mxrouting.net (Virginia, US)  
-shadow.mxrouting.net (Germany)  
-moose.mxrouting.net (Virginia, US)  
-eagle.mxlogin.com (Virginia, US)  
-monday.mxrouting.net (Virginia, US)  
-tuesday.mxrouting.net (Virginia, US)  
-wednesday.mxrouting.net (Virginia, US)  
-redbull.mxrouting.net (Virginia, US)  
-witcher.mxrouting.net (Utah, US)
-
-## Other Services
-
-mail.mxlogin.com (Crossbox, Germany, Hetzner)  
-Outbound filters (Dallas)  
-Outbound Relay Infrastructure:  
-– /24 owned IPs (Dallas, Vultr)  
-– Redis (Dallas, Vultr)  
-– MongoDB (Dallas, Vultr)
-
 ## MX Records
 
 All MX records are given consisting of two values:
