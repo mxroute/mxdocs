@@ -6,7 +6,7 @@ draft: false
 keywords: ["dns"]
 ---
 
-This is a comprehensive overview of our DNS structure, including a list of our servers to reference in the data included on this page. Before looking here for your DNS records, you should ALWAYS be referencing the email you receive when you sign up with “Important Account Information” in the subject. If you can’t find the e-mail, you can find a copy of it here:
+This is a comprehensive overview of our DNS structure. Before looking here for your DNS records, you should ALWAYS be referencing the email you receive when you sign up with “Important Account Information” in the subject. If you can’t find the e-mail, you can find a copy of it here:
 
 [https://accounts.mxroute.com/index.php?/clientarea/emails/](https://accounts.mxroute.com/index.php?/clientarea/emails/) 
 
