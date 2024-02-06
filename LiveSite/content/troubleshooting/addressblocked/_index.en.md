@@ -11,6 +11,7 @@ We maintain a list of banned senders and recipients on each server. They are up 
 ## Your sending address has been blocked by admins
 
 The most common reasons for this:
+- v2board
 - Violation of "Intended for human consumption" [policy](https://mxroute.com/policy.html)
 - ENOUGH. WITH. THE. CRON. JOB. SPAM. It may be new to you but it isn't new to us. You send an email for every cron job that executes every minute, from an invalid sender, to an invalid recipient. It floods our queue, sets off alerts, and we have to play the role of janitor to clean it up and write new ACLs to block it. A new customer does this to us every 6-12 hours, and it's driving us crazy. If you want to relay your whole Linux server through us, learn what your server is sending and make sure it's only stuff someone actually needs to read. We are not a toilet, we do not want to be required to flush every time you fill us with shit.
 - You recently sent too many emails to invalid recipients. This must mean you are either sending spam, sending to a non double opt in mailing list (which we also consider to be spam), or you have made a mistake which threatens to negatively impact the reputation of your domain.
