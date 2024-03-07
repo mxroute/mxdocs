@@ -18,7 +18,7 @@ You need to reference this to find your MX records. If you can’t find the e-ma
 
 [Email History](https://accounts.mxroute.com/index.php?/clientarea/emails/)
 
-This is example of what the e-mail MIGHT contain for the MX records:
+This is an EXAMPLE of what the e-mail MIGHT CONTAIN for the MX records:
 
 ```markup
 DNS MX RECORDS:
@@ -31,13 +31,7 @@ MIGHT CONTAIN! MIGHT CONTAIN! MIGHT CONTAIN! THOSE TWO WORDS ARE EXCESSIVELY VIT
 
 MIGHT CONTAIN! MIGHT CONTAIN! MIGHT CONTAIN! THOSE TWO WORDS ARE EXCESSIVELY VITAL! PLEASE DO NOT GLOSS OVER THIS PAGE, SCROLL BACK UP AND ACTUALLY READ THE TEXT ABOVE. ALL OF IT! 
 
-MIGHT CONTAIN! MIGHT CONTAIN! MIGHT CONTAIN! THOSE TWO WORDS ARE EXCESSIVELY VITAL! PLEASE DO NOT GLOSS OVER THIS PAGE, SCROLL BACK UP AND ACTUALLY READ THE TEXT ABOVE. ALL OF IT! 
-
-MIGHT CONTAIN! MIGHT CONTAIN! MIGHT CONTAIN! THOSE TWO WORDS ARE EXCESSIVELY VITAL! PLEASE DO NOT GLOSS OVER THIS PAGE, SCROLL BACK UP AND ACTUALLY READ THE TEXT ABOVE. ALL OF IT! 
-
-MIGHT CONTAIN! MIGHT CONTAIN! MIGHT CONTAIN! THOSE TWO WORDS ARE EXCESSIVELY VITAL! PLEASE DO NOT GLOSS OVER THIS PAGE, SCROLL BACK UP AND ACTUALLY READ THE TEXT ABOVE. ALL OF IT! 
-
-Did you read EVERY. SINGLE. WORD. above? No? THEN DO NOT CONTINUE. You will be unable to use our service. Please file a cancellation request and put "I refuse to read instructions" as the reason for your cancellation. If you DID read every single word above, continue scrolling.
+Did you read EVERY SINGLE WORD above? No? THEN DO NOT CONTINUE. You will be unable to use our service. Please file a cancellation request and put "I refuse to read instructions" as the reason for your cancellation. Please note that we will not provide refunds for failure to read instructions. If you DID read every single word above, continue scrolling.
 
 ## SPF Record
 
