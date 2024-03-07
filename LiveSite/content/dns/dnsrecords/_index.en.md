@@ -27,11 +27,11 @@ echo-relay.mxrouting.net (Priority 20)
 (These above are both record type “MX” and should have the name value set to either @ or blank, not a subdomain)
 ```
 
-MIGHT CONTAIN! MIGHT CONTAIN! MIGHT CONTAIN! THOSE TWO WORDS ARE EXCESSIVELY VITAL! PLEASE DO NOT GLOSS OVER THIS PAGE, SCROLL BACK UP AND ACTUALLY READ THE TEXT ABOVE. ALL OF IT!
+### MIGHT CONTAIN! MIGHT CONTAIN! MIGHT CONTAIN! THOSE TWO WORDS ARE EXCESSIVELY VITAL! PLEASE DO NOT GLOSS OVER THIS PAGE, SCROLL BACK UP AND ACTUALLY READ THE TEXT ABOVE. ALL OF IT!
 
-MIGHT CONTAIN! MIGHT CONTAIN! MIGHT CONTAIN! THOSE TWO WORDS ARE EXCESSIVELY VITAL! PLEASE DO NOT GLOSS OVER THIS PAGE, SCROLL BACK UP AND ACTUALLY READ THE TEXT ABOVE. ALL OF IT! 
+### MIGHT CONTAIN! MIGHT CONTAIN! MIGHT CONTAIN! THOSE TWO WORDS ARE EXCESSIVELY VITAL! PLEASE DO NOT GLOSS OVER THIS PAGE, SCROLL BACK UP AND ACTUALLY READ THE TEXT ABOVE. ALL OF IT! 
 
-Did you read EVERY SINGLE WORD above? No? THEN DO NOT CONTINUE. You will be unable to use our service. Please file a cancellation request and put "I refuse to read instructions" as the reason for your cancellation. Please note that we will not provide refunds for failure to read instructions. If you DID read every single word above, continue scrolling.
+### Did you read EVERY SINGLE WORD above? No? THEN DO NOT CONTINUE. You will be unable to use our service. Please file a cancellation request and put "I refuse to read instructions" as the reason for your cancellation. Please note that we will not provide refunds for failure to read instructions. If you DID read every single word above, continue scrolling.
 
 ## SPF Record
 
