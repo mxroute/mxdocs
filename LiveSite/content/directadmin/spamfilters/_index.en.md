@@ -24,27 +24,27 @@ Now let's describe the functions on this page:
 ## Where to send the spam?
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/wheretosendspam.png)
 
-Remember that what you set here doesn't necessarily mean that it will always be spam, so you should be careful, this could be what you want it to also do with false positives. The "Send the spam to the user's spam folder" option is by far the most popular. This can, however, cause a problem with forwarders which we'll explain in a FAQ at the bottom of this article.
+Remember that what you set here doesn't necessarily mean that it will always be spam, so you should be careful, this could be what you want it to also do with false positives. The "Send the spam to the user's spam folder" option is by far the most popular. This can, however, cause a problem with forwarders which we'll explain in a FAQ at the bottom of this article. **Recommended Setting: Inbox**
 
 ## Set threshold
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/threshold.png)
 
-Any email scoring at or above the value set here will be considered spam and treated as otherwise configured on this page. A setting of 10 here is probably a decent starting point, but you could start higher (15 maybe?) and see how things work out for you before adjusting further.
+Any email scoring at or above the value set here will be considered spam and treated as otherwise configured on this page. A setting of 10 here is probably a decent starting point, but you could start higher (15 maybe?) and see how things work out for you before adjusting further. **Recommended Setting: High Threshold**
 
 ## To delete or not to delete?
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/blockornot.png)
 
-You might set an upper threshold here so as to say "If it hits a score this high, I don't even want to see it, just reject it." That is what this option allows you to do, or not do.
+You might set an upper threshold here so as to say "If it hits a score this high, I don't even want to see it, just reject it." That is what this option allows you to do, or not do. **Recommended Setting: Delete all spam scoring higher than 25**
 
 ## Rewrite Subject
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/rewritesubject.png)
 
-Do you want to identify what we considered to be spam, based on your settings, by changing the email subject to make it obvious? You can do that here, if you want.
+Do you want to identify what we considered to be spam, based on your settings, by changing the email subject to make it obvious? You can do that here, if you want. **Recommended Setting: No**
 
 ## How to deliver spam
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/howtodeliverspam.png)
 
-In theory this allows you to basically quarantine the email by requiring you to download it as an attachment. This function, frankly, doesn't work very well. You are welcome to try it, we're not prioritizing it and more than likely will end up removing it in a future iteration (it was added there by licensed software).
+In theory this allows you to basically quarantine the email by requiring you to download it as an attachment. This function, frankly, doesn't work very well. You are welcome to try it, we're not prioritizing it and more than likely will end up removing it in a future iteration (it was added there by licensed software). **Recommended Setting: Don't use attachments**
 
 # Blocklist and Allowlist
 
