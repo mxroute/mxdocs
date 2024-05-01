@@ -33,6 +33,8 @@ echo-relay.mxrouting.net (Priority 20)
 
 ### Did you read EVERY SINGLE WORD above? No? THEN DO NOT CONTINUE. You will be unable to use our service. Please file a cancellation request and put "I refuse to read instructions" as the reason for your cancellation. Please note that we will not provide refunds for failure to read instructions. If you DID read every single word above, continue scrolling.
 
+I'm so sorry that we have to use language that appears to combative, but we've found it to be the only way to reduce unnecessary support overhead and we are an intentionally low budget operation.
+
 ## SPF Record
 
 Your SPF record is not as unique as your MX records. Your SPF record is a TXT DNS record at the root domain. These are basic templates for your SPF record, and you can use either one (preference, nothing more):
