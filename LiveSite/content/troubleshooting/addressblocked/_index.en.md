@@ -3,7 +3,7 @@ title: "Your sending/recipient address has been blocked by admins"
 weight: 10
 draft: false
 # search related keywords
-keywords: ["sending, recipient, address has been blocked, admins"]
+keywords: ["sending, recipient, address has been blocked, admins, 550"]
 ---
 
 We maintain a list of banned senders and recipients on each server. They are up for discussion, we are happy to discuss if you feel this has impacted you negatively. First, let's talk about what these most often mean.
