@@ -6,7 +6,7 @@ draft: false
 keywords: ["add user"]
 ---
 
-If you have a reseller account you will be able to make user accounts for your customers, where they can log in and manage their domains. If you have not previously followed the tutorial for creating packages. Please go HERE and do that first.
+If you have a reseller account you will be able to make user accounts for your customers, where they can log in and manage their domains. If you have not previously followed the tutorial for creating packages. Please go [HERE](https://mxroutedocs.com/reseller/createpackages/) and do that first.
 
 If you mouse over the Account Manager menu in DirectAdmin, you will see an option to Add New User. Click on that.
 
