@@ -39,7 +39,7 @@ Next, I make another record with the same steps, only I use “**mail**” inste
 
 **After saving both of those records, you may want to wait 1-2 hours before moving on to the next step.**
 
-If you are ready for the next step, [Log In to the Control Panel](https://mxroutehelp.com/index.php/2019/08/24/log-in-to-control-panel/) and click on **Account Manager** on the left side. From there, click **SSL Certificates**:
+If you are ready for the next step, [Log In to DirectAdmin](https://mxroutedocs.com/directadmin/login/) and click on **Account Manager** on the left side. From there, click **SSL Certificates**:
 ![](https://mxrouteprod.b-cdn.net/wp-content/uploads/2021/05/Screen-Shot-at-August-24th-2019-9.37.33-pm.png)
 
 From there, click on **Get automatic certificate from ACME Provider**. It looks like this:
