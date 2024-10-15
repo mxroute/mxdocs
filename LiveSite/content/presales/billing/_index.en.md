@@ -13,6 +13,8 @@ Renewal invoices will be issued 7 days before the end of the current billing cyc
 
 Clients who choose to allow payments via PayPal Billing Agreements or by choosing to have stored cards automatically charged in our Accounts Portal will have their invoices paid 1 day before the due date.  Please note that we do not store payment card details, but rather they are stored by the payment processor for PCI compliance reasons.  Due to this, you may only add a payment card to your profile during the payment process.
 
+All payments are required to be made via electronic means.  We do not accept or process physical check payments.  Any check received will be destroyed upon receipt.
+
 Clients with unpaid invoices after the due date will receive regular email reminders.  MXroute reserves the right to suspend and/or terminate accounts for non-payment at any time after the due date.
 
 
