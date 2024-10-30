@@ -29,7 +29,7 @@ Remember that what you set here doesn't necessarily mean that it will always be 
 ## Set threshold
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/threshold.png)
 
-Any email scoring at or above the value set here will be considered spam and treated as otherwise configured on this page. A setting of 10 here is probably a decent starting point, but you could start higher (15 maybe?) and see how things work out for you before adjusting further. **Recommended Setting: High Threshold**
+Any email scoring at or above the value set here will be considered spam and treated as otherwise configured on this page. A setting of 15 here (notice that "High Threshold" is now 15, screenshot above needs an update) is probably a decent starting point, but you could start higher (20 maybe?) and see how things work out for you before adjusting further. **Recommended Setting: High Threshold**
 
 ## To delete or not to delete?
 ![](https://mxrouteprod.b-cdn.net/tutorialimages/SpamFilters/blockornot.png)
