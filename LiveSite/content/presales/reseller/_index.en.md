@@ -15,3 +15,5 @@ Recommended resellers:
 [OnePoundEmail](https://onepoundemail.co.uk/)
 
 [Zarbyte](https://zarbyte.com/services/email-hosting/)
+
+[FireVPS](https://firevps.net/business-email-hosting/)
