@@ -67,7 +67,7 @@ Blocking a TLD:
 
 - At the top I see "Manually edit the config file yourself" does that work?
 
-Yes. If you feel comfortable writing your own user_prefs file for SpamAssassin, go for it. Take note that if you add too many allow/block items in there, this whole UI may fail to load for you later. It's an old habit, you should break yourself of it, blocking every email you ever received 1 spam from adds too much overhead to your account for no benefit. How often do you really get two emails from the same spam sender? Probably never 2 years down the road, clean your list for your own benefit.
+Yes. If you feel comfortable writing your own user_prefs file for SpamAssassin, go for it, however you cannot create your own custom rules. Take note that if you add too many allow/block items in there, this whole UI may fail to load for you later. It's an old habit, you should break yourself of it, blocking every email you ever received 1 spam from adds too much overhead to your account for no benefit. How often do you really get two emails from the same spam sender? Probably never 2 years down the road, clean your list for your own benefit.
 
 - What's the issue with forwarders + the "Send the spam to the user's spam folder" option?
 
