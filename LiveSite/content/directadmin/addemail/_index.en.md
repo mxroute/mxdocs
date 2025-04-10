@@ -28,7 +28,9 @@ From there, click on CREATE ACCOUNT.
 From there, you will see this interface:
 ![](https://mxrouteprod.b-cdn.net/wp-content/uploads/2020/08/createemail.png)
 
-**Email Quota** is the amount of disk space in MB that you want that account to be able to use. **Send Limit** is a daily limit on outbound email, which goes to a max of 7200 (or 300 per hour, as is our limit).
+**Email Quota** is the amount of disk space in MB that you want that account to be able to use. 
+The email quota is automatically set at a low default value.  We recommend setting this to "Unlimited".
+**Send Limit** is a daily limit on outbound email, which goes to a max of 9600 (or 400 per hour, as is our limit).  
 
 **If your password is Username+123 you will be suspended, berated via support ticket, and we will be very slow to unsuspend your account. We are working on preventing this from being done, but we're amazed at the thought of even having to. All of our customers are at risk of this behavior, so if that's you, stop it.**
 
